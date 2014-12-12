@@ -1,6 +1,9 @@
 MMOGA-FIFA-API
 ==============
 
+### Hire Me
+<i>If you're interested in getting this implmented into your application go ahead and add me on Skype : bws-curtis</i>
+
 ### Starting
 <i>Let's go ahead and initialise the class</i>
 ```php
